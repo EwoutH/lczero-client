@@ -9,7 +9,7 @@ environment:
     GOOS: windows
   - NAME: .exe
     GOOS: windows
-    GOARCH: _arm64
+    GOARCH: arm64
   - NAME: _linux
     GOOS: linux
   - NAME: _mac
