@@ -1,3 +1,5 @@
+[![Build Status](https://ci.appveyor.com/api/projects/status/github/LeelaChessZero/lczero-client?branch=master&svg=true)](https://ci.appveyor.com/project/LeelaChessZero/lczero-client)
+
 # Compiling
 
 You will need to install Go 1.9 or later.
