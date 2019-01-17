@@ -7,6 +7,9 @@ environment:
   matrix:
   - NAME: .exe
     GOOS: windows
+  - NAME: .exe
+    GOOS: windows
+    GOARCH: _arm64
   - NAME: _linux
     GOOS: linux
   - NAME: _mac
